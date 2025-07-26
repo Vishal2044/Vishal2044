@@ -1,22 +1,67 @@
-# Hii 👋 I'm Vishal Varotariya
-🚀 Passionate Web Developer | Building seamless digital experiences with JavaScript, React, Node.js, and MongoDB.<br>🔨 Currently working on innovative eCommerce, hotel management, and agriculture tech solutions.<br>🤝 Looking to collaborate on impactful web apps, UI/UX design, and full-stack development projects.<br>🎯 Helping with SEO, performance optimization, and scalable SaaS & business solutions.
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vishal_ahir_2044/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-varotariya-a89209214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varotariyavishal2044@gmail.com) 
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vishal2044&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vishal2044&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal2044&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vishal2044&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vishal2044&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 👋 Hi, I'm Vishal Varotariya  
+🚀 Full-Stack Web Developer | JavaScript, React, Node.js & MongoDB  
+🔧 Building seamless digital solutions for eCommerce, Hotel & AgriTech  
+🎯 SEO • UI/UX • SaaS • Performance Optimization  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vishal2044&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Connect With Me  
+[![Instagram](https://img.shields.io/badge/@vishal_ahir_2044-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishal_ahir_2044)  
+[![LinkedIn](https://img.shields.io/badge/Vishal%20Varotariya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-varotariya-a89209214)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varotariyavishal2044@gmail.com)
+
+---
+
+### 💻 Tech Stack  
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=JSON%20web%20tokens)
+
+**DevOps & Hosting:**  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Apache](https://img.shields.io/badge/-Apache-D42029?style=flat&logo=apache&logoColor=white)
+
+---
+
+### 📊 GitHub Stats  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Vishal2044&theme=react&show_icons=true&hide_border=true" height="180"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal2044&theme=react&hide_border=true" height="180"/></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal2044&layout=compact&theme=react&hide_border=true" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal2044&theme=algolia&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repos  
+[![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Vishal2044&limit=5&theme=onedark)](https://github.com/Vishal2044)
+
+---
+
+### 📈 Profile Visitors  
+[![](https://visitcount.itsvg.in/api?id=Vishal2044&icon=0&color=1)](https://visitcount.itsvg.in)
+
+---
+
+<!-- Made with 💙 by Vishal using GPRM: https://gprm.itsvg.in -->
