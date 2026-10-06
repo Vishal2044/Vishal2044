@@ -1,202 +1,210 @@
+<!-- ======================== HERO ======================== -->
+
 <div align="center">
 
-# Hey, I'm Vishal Varotariya 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00C9FF,45:7B2CFF,100:FF2CDF&text=Vishal%20Varotariya&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Building%20Digital%20Products&descAlignY=58&descSize=17"/>
 
-### Full-Stack Developer • MERN • Product-Focused Builder
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+TypeScript;Turning+ideas+into+real+products+%E2%9C%A8;Clean+UI+%E2%80%A2+Scalable+APIs+%E2%80%A2+Better+UX"
+    alt="Typing SVG"
+  />
+</a>
 
-I build **scalable web applications, SaaS platforms and clean digital experiences**  
-with a focus on **performance, usability and real-world business problems**.
-
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/vishal-varotariya-a89209214">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/vishal_ahir_2044">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+&nbsp;
 <a href="mailto:varotariyavishal2044@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://instagram.com/vishal_ahir_2044">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vishal2044&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed"/>
 
 </div>
 
-<br/>
 
-## ⚡ About Me
-
-```javascript
-const vishal = {
-  role: "Full-Stack Developer",
-  stack: ["React", "Node.js", "Express", "MongoDB"],
-  languages: ["JavaScript", "TypeScript", "PHP"],
-  interests: [
-    "SaaS",
-    "UI/UX",
-    "System Design",
-    "Performance",
-    "SEO"
-  ],
-  currentlyBuilding: "Scalable web products & real-world workflows",
-  mindset: "Build simple. Ship useful. Improve continuously."
-};
-```
-
-I enjoy turning complex workflows into **simple, fast and intuitive products**.
-
-My work spans frontend experiences, backend APIs, database architecture,
-authentication, dashboards, email systems, SEO and production-ready
-full-stack features.
+<!-- ======================== ABOUT ======================== -->
 
 <br/>
 
-## 🚀 What I'm Working With
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> &nbsp;About Me
+
+I'm a **Full-Stack Developer** focused on building modern, scalable and user-friendly web products.
+
+I enjoy working across the complete product lifecycle — from crafting responsive interfaces and UX to building APIs, authentication, databases and production workflows.
+
+> **I like turning complicated workflows into products that feel simple.**
+
+⚡ Building full-stack web products  
+🎨 Focused on clean UI/UX and responsive experiences  
+🧩 Working with complex business workflows & dashboards  
+🚀 Interested in SaaS, performance and scalable systems  
+🤖 Exploring AI-assisted development & automation
+
+
+<!-- ======================== TECH ======================== -->
+
+<br/>
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### Frontend
+### 「 Frontend 」
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" />
 
-### Backend & Database
+<br/><br/>
+
+### 「 Backend & Database 」
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php&theme=dark" />
 
-### Tools & Workflow
+<br/><br/>
+
+### 「 Tools & Workflow 」
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark" />
 
-### Cloud & Deployment
+<br/><br/>
+
+### 「 Deployment 」
 
 <img src="https://skillicons.dev/icons?i=vercel,firebase&theme=dark" />
 
 </div>
 
-<br/>
 
-## 🧩 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Full-Stack Applications
-
-Building end-to-end applications with modern frontend architecture, APIs, authentication and databases.
-
-**React • Node.js • Express • MongoDB**
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Interactive Platforms
-
-Real-time and workflow-driven experiences including chats, collaboration flows, dashboards and negotiation systems.
-
-**REST APIs • JWT • State Management**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 UI/UX & Product Development
-
-Creating responsive interfaces focused on clarity, usability and smooth user experiences across desktop and mobile.
-
-**Tailwind CSS • Figma • Responsive UI**
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Performance & Growth
-
-Improving application performance, technical SEO, discoverability and production reliability.
-
-**SEO • Optimization • Analytics**
-
-</td>
-</tr>
-</table>
+<!-- ======================== WORK ======================== -->
 
 <br/>
 
-## 🔥 Current Focus
-
-```text
-▸ Building scalable MERN applications
-▸ Designing cleaner SaaS workflows
-▸ Improving frontend architecture & UX
-▸ Building reliable APIs and backend systems
-▸ Performance & technical SEO optimization
-▸ Exploring AI-assisted development workflows
-```
-
-<br/>
-
-## 📊 GitHub Analytics
+## 🧠 What I Do
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vishal2044&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal2044&theme=github-dark-blue&hide_border=true&background=0D1117" />
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal2044&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+| 💻 Full-Stack | 🎨 Product & UI | ⚙️ Backend | 🚀 Optimization |
+|:---:|:---:|:---:|:---:|
+| MERN Applications | Responsive UI | REST APIs | Performance |
+| SaaS Platforms | UX Workflows | Authentication | Technical SEO |
+| Dashboards | Figma → Code | MongoDB | Production Fixes |
+| Business Tools | Mobile-first UI | Integrations | Optimization |
 
 </div>
 
+
+<!-- ======================== CURRENT ======================== -->
+
 <br/>
 
-## 🏆 GitHub Achievements
+## 🚀 Currently Exploring
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vishal2044&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://img.shields.io/badge/Scalable_SaaS-7C3AED?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Assisted_Development-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Better_UX-DB2777?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
+
+<!-- ======================== STATS ======================== -->
+
 <br/>
 
-## 📈 Contribution Activity
+## 📊 GitHub Pulse
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal2044&theme=github-compact&hide_border=true&area=true" width="95%" />
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Vishal2044&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=FFFFFF&ring_color=8B5CF6"
+/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal2044&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"
+/>
 
 </div>
 
-<br/>
 
-## 🤝 Let's Connect
+<!-- ======================== STREAK ======================== -->
+
+<br/>
 
 <div align="center">
 
-I'm always interested in **building useful products, discussing technology and exploring new ideas.**
+<img
+src="https://streak-stats.demolab.com?user=Vishal2044&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF2CDF&currStreakLabel=22D3EE&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+/>
+
+</div>
+
+
+<!-- ======================== ACTIVITY ======================== -->
 
 <br/>
+
+## 🐍 Contribution Flow
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vishal2044/Vishal2044/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vishal2044/Vishal2044/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Vishal2044/Vishal2044/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+
+<!-- ======================== CONNECT ======================== -->
+
+<br/>
+
+## 🌐 Find Me Around The Web
+
+<div align="center">
 
 <a href="https://linkedin.com/in/vishal-varotariya-a89209214">
-  <img src="https://img.shields.io/badge/LinkedIn-Vishal_Varotariya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:varotariyavishal2044@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/vishal_ahir_2044">
-  <img src="https://img.shields.io/badge/Instagram-@vishal__ahir__2044-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vishal2044&style=for-the-badge&color=238636&label=PROFILE+VIEWS" />
+### 💜 Code. Create. Improve. Repeat.
 
-<br/><br/>
-
-### `</> Build • Learn • Ship • Repeat`
+<sub>Always building something better.</sub>
 
 </div>
+
+
+<!-- ======================== FOOTER ======================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF2CDF,50:7B2CFF,100:00C9FF"/>
